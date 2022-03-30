@@ -148,7 +148,7 @@
    `(org-hide ((t (:foreground ,gray-2 :background ,gray-1bg))))
    `(org-link ((t (:foreground ,blue-1 :background ,blue-1bg))))
    `(org-todo ((t (:foreground ,red-1 :background ,red-1bg))))
-   `(org-block-background ((t (:background "#FFFFE0")))) ;; :inherit fixed-pitch))))
+   `(org-block ((t (:background "#FFFFE0")))) ;; :inherit fixed-pitch))))
    `(org-block-begin-line ((t (:underline "#A7A6AA" :foreground "#555555" :background "#E2E1D5"))))
    `(org-block-end-line ((t (:overline "#A7A6AA" :foreground "#555555" :background "#E2E1D5"))))
    `(org-meta-line ((t (:underline "#A7A6AA" :foreground "#555555" :background "#E2E1D5"))))
